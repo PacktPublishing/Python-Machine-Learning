@@ -1,5 +1,5 @@
 # Python-Machine-Learning
-#####Code repository for [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning), published by Packt Publishing 
+#####Code repository for [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783555130), published by Packt Publishing 
 
 #####[PACKT Publishing](https://www.packtpub.com)
 
