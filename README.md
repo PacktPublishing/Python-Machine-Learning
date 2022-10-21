@@ -9,3 +9,7 @@ The execution of the code examples provided in this book requires an installatio
 * [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781782161400)
 * [Python Machine Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786464477)
 * [Python Machine Learning Blueprints](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781784394752)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789955750">https://packt.link/free-ebook/9781789955750 </a> </p>
